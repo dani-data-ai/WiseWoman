@@ -1,0 +1,15 @@
+{
+  "devotional": {
+    "title": {
+      "en": "21 Days Journey with a Wise Woman",
+      "ro": "Călătorie de 21 de zile cu o femeie înțeleaptă"
+    },
+    "introduction": {
+      "en": "My dear, this 21-day journey through Proverbs 31:10–31 is not a call to perfection but an invitation to rest in God’s grace. As a mother, your heart is shaped by His love, not worldly standards. In Paul David Tripp’s gospel-centered style, we’ll explore the wise woman’s virtues, drawing principles to anchor you in Christ. Each day offers hope for your stretched heart, equipping you to nurture your family with His strength.",
+      "ro": "Draga mea, această călătorie de 21 de zile prin Proverbe 31:10–31 nu este un apel la perfecțiune, ci o invitație de a te odihni în harul lui Dumnezeu. Ca mamă, inima ta este modelată de iubirea Lui, nu de standardele lumești. În stilul evanghelic al lui Paul David Tripp, vom explora virtuțile femeii înțelepte, extrăgând principii care să te ancoreze în Hristos. Fiecare zi oferă speranță pentru inima ta copleșită, echipându-te să-ți crești familia cu puterea Lui."
+    },
+    "days": [
+      /* ... Paste all 21 days here exactly as in your original JSON ... */
+    ]
+  }
+}
